@@ -1,0 +1,47 @@
+name: Daily Scraper Update
+
+on:
+  schedule:
+    # S'exécute tous les jours à 04:00 du matin (UTC)
+    - cron: '0 4 * * *'
+  # Permet également de déclencher l'action manuellement depuis l'interface GitHub
+  workflow_dispatch:
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Sauvetage du code (Checkout)
+        uses: actions/checkout@v4
+
+      - name: Configuration de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Installation des dépendances
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scraper/requirements.txt
+
+      - name: Exécution du Scraper (main.py)
+        run: python scraper/src/main.py
+        env:
+          PYTHONPATH: ${{ github.workspace }}/scraper/src
+
+      - name: Commit & Push des nouvelles données
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Ajout du fichier JSON généré
+          git add scraper/data/seances_par_cinema.json
+          
+          # Force le commit si modification détectée, puis push sur le dépôt main
+          git commit -m "🤖 Synchronisation automatique des séances (Cron)" || echo "Aucune nouvelle donnée, la base est à jour"
+          git push

@@ -1,0 +1,23 @@
+{
+  "countries": "U.S.A.",
+  "year": 1986,
+  "language": "Anglais",
+  "id": "stand-by-me-1986",
+  "showtimes_theater": [
+    {
+      "name": "Espace 1789",
+      "neighborhood": "em",
+      "seances": {
+        "18_10": {
+          "time": 18.166666666666668
+        }
+      },
+      "preposition_and_name": "\u00e0 l'Espace 1789",
+      "zipcode": "93400"
+    }
+  ],
+  "title": "Stand by Me",
+  "directors": "Rob Reiner",
+  "original_title": "Stand by Me",
+  "tags": null
+}
