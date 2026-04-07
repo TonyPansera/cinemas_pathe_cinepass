@@ -2,5 +2,3 @@ node_modules/
 __pycache__/
 .venv/
 .DS_Store
-scraper/data/seances_par_cinema.json
-
