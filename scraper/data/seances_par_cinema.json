@@ -2,105 +2,6 @@
   "by_cinema": {
     "Filmothèque du Quartier Latin": [
       {
-        "film": "Little Feet",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2013,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:30"
-      },
-      {
-        "film": "Les Hommes le dimanche",
-        "realisateur": "Robert Siodmak, Edgar G. Ulmer",
-        "annee": 1930,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:30"
-      },
-      {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "14:45"
-      },
-      {
-        "film": "Notre pain quotidien",
-        "realisateur": "King Vidor",
-        "annee": 1934,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:00"
-      },
-      {
-        "film": "Little Feet",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2013,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "16:30"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "16:30"
-      },
-      {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:45"
-      },
-      {
-        "film": "Les Enfants des autres",
-        "realisateur": "Rebecca Zlotowski",
-        "annee": 2022,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "19:30"
-      },
-      {
-        "film": "Little Feet",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2013,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "21:05"
-      },
-      {
-        "film": "Psychose",
-        "realisateur": "Alfred Hitchcock",
-        "annee": 1960,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "22:15"
-      },
-      {
-        "film": "As Tears Go By - Ainsi vont les larmes",
-        "realisateur": "Wong Kar-Wai",
-        "annee": 1988,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "22:20"
-      },
-      {
         "film": "Sweet Thing",
         "realisateur": "Alexandre Rockwell",
         "annee": 2020,
@@ -585,60 +486,6 @@
         "annee": 2008,
         "cinema": "Gaumont Convention",
         "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "10:10"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "Gaumont Convention",
-        "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "13:50"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "Gaumont Convention",
-        "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "15:50"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "Gaumont Convention",
-        "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "18:00"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "Gaumont Convention",
-        "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "20:10"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "Gaumont Convention",
-        "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "22:15"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "Gaumont Convention",
-        "zipcode": "75015",
         "date": "2026-04-10",
         "heure": "10:10"
       },
@@ -914,69 +761,6 @@
       }
     ],
     "UGC Les Halles": [
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "09:00"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "11:05"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "13:15"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "15:25"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "17:40"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "19:05"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "19:55"
-      },
       {
         "film": "Le dernier pour la route",
         "realisateur": "Philippe Godeau",
@@ -1267,87 +1051,6 @@
       }
     ],
     "Christine Cinéma Club": [
-      {
-        "film": "Happy Together",
-        "realisateur": "Wong Kar-Wai",
-        "annee": 1997,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "13:40"
-      },
-      {
-        "film": "Casablanca",
-        "realisateur": "Michael Curtiz",
-        "annee": 1942,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "14:00"
-      },
-      {
-        "film": "Le Fleuve de la mort",
-        "realisateur": "Luis Buñuel",
-        "annee": 1954,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "15:30"
-      },
-      {
-        "film": "New York-Miami",
-        "realisateur": "Frank Capra",
-        "annee": 1934,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "15:55"
-      },
-      {
-        "film": "Le Fleuve de la mort",
-        "realisateur": "Luis Buñuel",
-        "annee": 1954,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "17:15"
-      },
-      {
-        "film": "Donnie Darko",
-        "realisateur": "Richard Kelly",
-        "annee": 2001,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "17:50"
-      },
-      {
-        "film": "La Fille à la valise",
-        "realisateur": "Valerio Zurlini",
-        "annee": 1961,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "19:55"
-      },
-      {
-        "film": "La Famille Tenenbaum",
-        "realisateur": "Wes Anderson",
-        "annee": 2001,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "21:40"
-      },
-      {
-        "film": "Phantom of the paradise",
-        "realisateur": "Brian De Palma",
-        "annee": 1974,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "22:10"
-      },
       {
         "film": "Le Fleuve de la mort",
         "realisateur": "Luis Buñuel",
@@ -1736,97 +1439,63 @@
         "heure": "21:55"
       }
     ],
+    "Épée de bois": [
+      {
+        "film": "Perfect Days",
+        "realisateur": "Wim Wenders",
+        "annee": 2023,
+        "cinema": "Épée de bois",
+        "zipcode": "75005",
+        "date": "2026-04-10",
+        "heure": "18:15"
+      },
+      {
+        "film": "The Dark Knight, Le Chevalier Noir",
+        "realisateur": "Christopher Nolan",
+        "annee": 2008,
+        "cinema": "Épée de bois",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "10:30"
+      },
+      {
+        "film": "Jumanji",
+        "realisateur": "Joe Johnston",
+        "annee": 1995,
+        "cinema": "Épée de bois",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "15:00"
+      },
+      {
+        "film": "Perfect Days",
+        "realisateur": "Wim Wenders",
+        "annee": 2023,
+        "cinema": "Épée de bois",
+        "zipcode": "75005",
+        "date": "2026-04-13",
+        "heure": "13:20"
+      },
+      {
+        "film": "Le Procès",
+        "realisateur": "Orson Welles",
+        "annee": 1962,
+        "cinema": "Épée de bois",
+        "zipcode": "75005",
+        "date": "2026-04-13",
+        "heure": "19:00"
+      },
+      {
+        "film": "Memories of Murder",
+        "realisateur": "Bong Joon Ho",
+        "annee": 2003,
+        "cinema": "Épée de bois",
+        "zipcode": "75005",
+        "date": "2026-04-14",
+        "heure": "20:15"
+      }
+    ],
     "Reflet Médicis": [
-      {
-        "film": "Wives",
-        "realisateur": "Anja Breien",
-        "annee": 1975,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "11:20"
-      },
-      {
-        "film": "Wives",
-        "realisateur": "Anja Breien",
-        "annee": 1975,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:30"
-      },
-      {
-        "film": "Les Fleurs et les Vagues",
-        "realisateur": "Seijun Suzuki",
-        "annee": 1964,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:45"
-      },
-      {
-        "film": "Wives 2, dix ans après (version restaurée)",
-        "realisateur": "Anja Breien",
-        "annee": 1985,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:20"
-      },
-      {
-        "film": "Le Vagabond de Tokyo",
-        "realisateur": "Seijun Suzuki",
-        "annee": 1966,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:45"
-      },
-      {
-        "film": "Wives",
-        "realisateur": "Anja Breien",
-        "annee": 1975,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:20"
-      },
-      {
-        "film": "La Barrière de chair",
-        "realisateur": "Seijun Suzuki",
-        "annee": 1964,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:45"
-      },
-      {
-        "film": "La Marque du tueur",
-        "realisateur": "Seijun Suzuki",
-        "annee": 1967,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "19:45"
-      },
-      {
-        "film": "Wives 2, dix ans après (version restaurée)",
-        "realisateur": "Anja Breien",
-        "annee": 1985,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "21:40"
-      },
-      {
-        "film": "La Vie d'un tatoué",
-        "realisateur": "Seijun Suzuki",
-        "annee": 1965,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "21:45"
-      },
       {
         "film": "Wives",
         "realisateur": "Anja Breien",
@@ -2305,71 +1974,334 @@
         "heure": "21:45"
       }
     ],
-    "UGC Paris 19": [
+    "Le Méliès": [
       {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Paris 19",
-        "zipcode": "75019",
-        "date": "2026-04-09",
+        "film": "Sweet Thing",
+        "realisateur": "Alexandre Rockwell",
+        "annee": 2020,
+        "cinema": "Le Méliès",
+        "zipcode": "93100",
+        "date": "2026-04-10",
+        "heure": "16:30"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Méliès",
+        "zipcode": "93100",
+        "date": "2026-04-10",
+        "heure": "18:25"
+      },
+      {
+        "film": "StreetDance",
+        "realisateur": "Max Giwa, Dania Pasquini, Nichola Burley",
+        "annee": 2009,
+        "cinema": "Le Méliès",
+        "zipcode": "93100",
+        "date": "2026-04-11",
+        "heure": "16:00"
+      },
+      {
+        "film": "A toute épreuve",
+        "realisateur": "John Woo",
+        "annee": 1992,
+        "cinema": "Le Méliès",
+        "zipcode": "93100",
+        "date": "2026-04-11",
+        "heure": "20:15"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Méliès",
+        "zipcode": "93100",
+        "date": "2026-04-11",
+        "heure": "21:00"
+      },
+      {
+        "film": "Sweet Thing",
+        "realisateur": "Alexandre Rockwell",
+        "annee": 2020,
+        "cinema": "Le Méliès",
+        "zipcode": "93100",
+        "date": "2026-04-12",
+        "heure": "11:10"
+      },
+      {
+        "film": "Nous étions jeunes",
+        "realisateur": "Binka Zhelyazkova",
+        "annee": 1961,
+        "cinema": "Le Méliès",
+        "zipcode": "93100",
+        "date": "2026-04-12",
+        "heure": "16:00"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Méliès",
+        "zipcode": "93100",
+        "date": "2026-04-13",
+        "heure": "13:45"
+      },
+      {
+        "film": "Sweet Thing",
+        "realisateur": "Alexandre Rockwell",
+        "annee": 2020,
+        "cinema": "Le Méliès",
+        "zipcode": "93100",
+        "date": "2026-04-14",
+        "heure": "18:15"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Méliès",
+        "zipcode": "93100",
+        "date": "2026-04-14",
+        "heure": "20:45"
+      }
+    ],
+    "Jeu de Paume": [
+      {
+        "film": "Sweet Thing",
+        "realisateur": "Alexandre Rockwell",
+        "annee": 2020,
+        "cinema": "Jeu de Paume",
+        "zipcode": "75001",
+        "date": "2026-04-10",
+        "heure": "11:30"
+      },
+      {
+        "film": "The Cruise",
+        "realisateur": "Bennett Miller",
+        "annee": 1998,
+        "cinema": "Jeu de Paume",
+        "zipcode": "75001",
+        "date": "2026-04-10",
+        "heure": "13:15"
+      },
+      {
+        "film": "L'Hypothèse du Mokélé M'Bembé",
+        "realisateur": "Marie Voignier",
+        "annee": 2011,
+        "cinema": "Jeu de Paume",
+        "zipcode": "75001",
+        "date": "2026-04-10",
+        "heure": "18:30"
+      },
+      {
+        "film": "Sweet Thing",
+        "realisateur": "Alexandre Rockwell",
+        "annee": 2020,
+        "cinema": "Jeu de Paume",
+        "zipcode": "75001",
+        "date": "2026-04-12",
+        "heure": "11:30"
+      },
+      {
+        "film": "Sweet Thing",
+        "realisateur": "Alexandre Rockwell",
+        "annee": 2020,
+        "cinema": "Jeu de Paume",
+        "zipcode": "75001",
+        "date": "2026-04-14",
+        "heure": "14:45"
+      }
+    ],
+    "L'Archipel": [
+      {
+        "film": "Ennemis intimes",
+        "realisateur": "Werner Herzog",
+        "annee": 1998,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-10",
+        "heure": "13:10"
+      },
+      {
+        "film": "Le pays où rêvent les fourmis vertes",
+        "realisateur": "Werner Herzog",
+        "annee": 1984,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-10",
+        "heure": "13:10"
+      },
+      {
+        "film": "Roberte",
+        "realisateur": "Pierre Zucca",
+        "annee": 1977,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-10",
+        "heure": "15:15"
+      },
+      {
+        "film": "Alouette je te plumerai",
+        "realisateur": "Pierre Zucca",
+        "annee": 1988,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-10",
+        "heure": "17:10"
+      },
+      {
+        "film": "The Doom Generation",
+        "realisateur": "Gregg Araki",
+        "annee": 1995,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-10",
+        "heure": "19:00"
+      },
+      {
+        "film": "Sweet Thing",
+        "realisateur": "Alexandre Rockwell",
+        "annee": 2020,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-10",
         "heure": "20:00"
       },
       {
-        "film": "Tout sur ma mère",
-        "realisateur": "Pedro Almodóvar",
-        "annee": 1999,
-        "cinema": "UGC Paris 19",
-        "zipcode": "75019",
+        "film": "Aguirre, la colère de Dieu",
+        "realisateur": "Werner Herzog",
+        "annee": 1972,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-10",
+        "heure": "20:40"
+      },
+      {
+        "film": "Little Feet",
+        "realisateur": "Alexandre Rockwell",
+        "annee": 2013,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-11",
+        "heure": "14:10"
+      },
+      {
+        "film": "Heart of a Dog",
+        "realisateur": "Laurie Anderson",
+        "annee": 2015,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
         "date": "2026-04-11",
         "heure": "18:00"
       },
       {
-        "film": "Alice au pays des merveilles",
-        "realisateur": "Hamilton Luske, Wilfred Jackson, Clyde Geronomi",
-        "annee": 1951,
-        "cinema": "UGC Paris 19",
-        "zipcode": "75019",
-        "date": "2026-04-12",
-        "heure": "11:00"
-      }
-    ],
-    "UGC Maillot": [
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Maillot",
-        "zipcode": "75017",
-        "date": "2026-04-09",
-        "heure": "20:00"
+        "film": "Une journée particulière",
+        "realisateur": "Ettore Scola",
+        "annee": 1977,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-11",
+        "heure": "20:20"
       },
       {
-        "film": "Tout sur ma mère",
-        "realisateur": "Pedro Almodóvar",
-        "annee": 1999,
-        "cinema": "UGC Maillot",
-        "zipcode": "75017",
-        "date": "2026-04-11",
+        "film": "Alouette je te plumerai",
+        "realisateur": "Pierre Zucca",
+        "annee": 1988,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-12",
         "heure": "14:00"
       },
       {
-        "film": "Alice au pays des merveilles",
-        "realisateur": "Hamilton Luske, Wilfred Jackson, Clyde Geronomi",
-        "annee": 1951,
-        "cinema": "UGC Maillot",
-        "zipcode": "75017",
+        "film": "Vincent mit l'âne dans un pré",
+        "realisateur": "Pierre Zucca",
+        "annee": 1975,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
         "date": "2026-04-12",
-        "heure": "11:00"
+        "heure": "16:50"
       },
       {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Maillot",
-        "zipcode": "75017",
+        "film": "Sweet Thing",
+        "realisateur": "Alexandre Rockwell",
+        "annee": 2020,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-12",
+        "heure": "18:45"
+      },
+      {
+        "film": "Sweet Thing",
+        "realisateur": "Alexandre Rockwell",
+        "annee": 2020,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-13",
+        "heure": "15:00"
+      },
+      {
+        "film": "Rouge-Gorge",
+        "realisateur": "Pierre Zucca",
+        "annee": 1985,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-13",
+        "heure": "17:00"
+      },
+      {
+        "film": "Nowhere",
+        "realisateur": "Gregg Araki",
+        "annee": 1997,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-13",
+        "heure": "19:00"
+      },
+      {
+        "film": "La Famille Homolka",
+        "realisateur": "Jaroslav Papousek",
+        "annee": 1969,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
         "date": "2026-04-14",
-        "heure": "18:00"
+        "heure": "15:00"
+      },
+      {
+        "film": "Une Balle dans la tête",
+        "realisateur": "John Woo",
+        "annee": 1990,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-14",
+        "heure": "15:35"
+      },
+      {
+        "film": "Sweet Thing",
+        "realisateur": "Alexandre Rockwell",
+        "annee": 2020,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-14",
+        "heure": "16:35"
+      },
+      {
+        "film": "Leçons de ténèbres",
+        "realisateur": "Werner Herzog",
+        "annee": 1992,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-14",
+        "heure": "19:30"
+      },
+      {
+        "film": "Forbidden Hollywood : Âmes libres",
+        "realisateur": "Clarence Brown",
+        "annee": 1931,
+        "cinema": "L'Archipel",
+        "zipcode": "75010",
+        "date": "2026-04-14",
+        "heure": "20:00"
       }
     ],
     "UGC Lyon Bastille": [
@@ -2379,15 +2311,6 @@
         "annee": 1975,
         "cinema": "UGC Lyon Bastille",
         "zipcode": "75012",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Lyon Bastille",
-        "zipcode": "75012",
         "date": "2026-04-10",
         "heure": "18:00"
       },
@@ -2424,718 +2347,11 @@
         "annee": 1975,
         "cinema": "UGC Lyon Bastille",
         "zipcode": "75012",
-        "date": "2026-04-14",
-        "heure": "18:00"
-      }
-    ],
-    "UGC Odéon": [
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Odéon",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "19:00"
-      },
-      {
-        "film": "Tout sur ma mère",
-        "realisateur": "Pedro Almodóvar",
-        "annee": 1999,
-        "cinema": "UGC Odéon",
-        "zipcode": "75006",
-        "date": "2026-04-12",
-        "heure": "15:15"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Odéon",
-        "zipcode": "75006",
-        "date": "2026-04-13",
-        "heure": "15:00"
-      }
-    ],
-    "UGC Rotonde": [
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Rotonde",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      }
-    ],
-    "UGC Opéra": [
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Opéra",
-        "zipcode": "75009",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      }
-    ],
-    "UGC Gobelins": [
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Gobelins",
-        "zipcode": "75013",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Tout sur ma mère",
-        "realisateur": "Pedro Almodóvar",
-        "annee": 1999,
-        "cinema": "UGC Gobelins",
-        "zipcode": "75013",
-        "date": "2026-04-11",
-        "heure": "18:00"
-      },
-      {
-        "film": "Alice au pays des merveilles",
-        "realisateur": "Hamilton Luske, Wilfred Jackson, Clyde Geronomi",
-        "annee": 1951,
-        "cinema": "UGC Gobelins",
-        "zipcode": "75013",
-        "date": "2026-04-12",
-        "heure": "10:30"
-      },
-      {
-        "film": "La fille du Konbini",
-        "realisateur": "Yûho Ishibashi",
-        "annee": 2022,
-        "cinema": "UGC Gobelins",
-        "zipcode": "75013",
-        "date": "2026-04-12",
-        "heure": "17:40"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Gobelins",
-        "zipcode": "75013",
-        "date": "2026-04-13",
-        "heure": "20:00"
-      }
-    ],
-    "UGC Bercy": [
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Bercy",
-        "zipcode": "75012",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Tout sur ma mère",
-        "realisateur": "Pedro Almodóvar",
-        "annee": 1999,
-        "cinema": "UGC Bercy",
-        "zipcode": "75012",
-        "date": "2026-04-11",
-        "heure": "18:00"
-      },
-      {
-        "film": "Alice au pays des merveilles",
-        "realisateur": "Hamilton Luske, Wilfred Jackson, Clyde Geronomi",
-        "annee": 1951,
-        "cinema": "UGC Bercy",
-        "zipcode": "75012",
-        "date": "2026-04-12",
-        "heure": "11:00"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Bercy",
-        "zipcode": "75012",
-        "date": "2026-04-14",
-        "heure": "14:00"
-      }
-    ],
-    "Le Grand Action": [
-      {
-        "film": "Echos d'un sombre empire",
-        "realisateur": "Werner Herzog",
-        "annee": 1990,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:30"
-      },
-      {
-        "film": "Une Balle dans la tête",
-        "realisateur": "John Woo",
-        "annee": 1990,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:15"
-      },
-      {
-        "film": "Rouge-Gorge",
-        "realisateur": "Pierre Zucca",
-        "annee": 1985,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:40"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:45"
-      },
-      {
-        "film": "Leçons de ténèbres",
-        "realisateur": "Werner Herzog",
-        "annee": 1992,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:35"
-      },
-      {
-        "film": "Le Syndicat du crime",
-        "realisateur": "John Woo",
-        "annee": 1986,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "19:25"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "19:30"
-      },
-      {
-        "film": "L'Enigme de Kaspar Hauser",
-        "realisateur": "Werner Herzog",
-        "annee": 1974,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "21:15"
-      },
-      {
-        "film": "Le Syndicat du crime",
-        "realisateur": "John Woo",
-        "annee": 1986,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-10",
-        "heure": "13:15"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-10",
-        "heure": "14:00"
-      },
-      {
-        "film": "Le Syndicat du crime 3",
-        "realisateur": "Tsui Hark",
-        "annee": 1989,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-10",
-        "heure": "15:15"
-      },
-      {
-        "film": "Alouette je te plumerai",
-        "realisateur": "Pierre Zucca",
-        "annee": 1988,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-10",
-        "heure": "15:45"
-      },
-      {
-        "film": "Leçons de ténèbres",
-        "realisateur": "Werner Herzog",
-        "annee": 1992,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-10",
-        "heure": "17:35"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-10",
-        "heure": "17:40"
-      },
-      {
-        "film": "Rouge-Gorge",
-        "realisateur": "Pierre Zucca",
-        "annee": 1985,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-10",
-        "heure": "19:20"
-      },
-      {
-        "film": "City on fire",
-        "realisateur": "Ringo Lam",
-        "annee": 1987,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-10",
-        "heure": "21:20"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-10",
-        "heure": "21:30"
-      },
-      {
-        "film": "Vincent mit l'âne dans un pré",
-        "realisateur": "Pierre Zucca",
-        "annee": 1975,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-11",
-        "heure": "15:40"
-      },
-      {
-        "film": "Les Trois Royaumes",
-        "realisateur": "John Woo",
-        "annee": 2008,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-11",
-        "heure": "16:00"
-      },
-      {
-        "film": "Careful",
-        "realisateur": "Guy Maddin",
-        "annee": 1992,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-11",
-        "heure": "16:30"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-11",
-        "heure": "18:45"
-      },
-      {
-        "film": "Le Syndicat du crime",
-        "realisateur": "John Woo",
-        "annee": 1986,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-11",
-        "heure": "18:50"
-      },
-      {
-        "film": "Alouette je te plumerai",
-        "realisateur": "Pierre Zucca",
-        "annee": 1988,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-11",
-        "heure": "19:20"
-      },
-      {
-        "film": "Volte/Face",
-        "realisateur": "John Woo",
-        "annee": 1997,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-11",
-        "heure": "20:45"
-      },
-      {
-        "film": "Nosferatu Fantôme de la Nuit",
-        "realisateur": "Werner Herzog",
-        "annee": 1979,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-11",
-        "heure": "21:15"
-      },
-      {
-        "film": "Un autre monde",
-        "realisateur": "Stéphane Brizé",
-        "annee": 2021,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-12",
-        "heure": "10:30"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-12",
-        "heure": "14:00"
-      },
-      {
-        "film": "Rouge-Gorge",
-        "realisateur": "Pierre Zucca",
-        "annee": 1985,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-12",
-        "heure": "15:40"
-      },
-      {
-        "film": "Le Syndicat du crime",
-        "realisateur": "John Woo",
-        "annee": 1986,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-12",
-        "heure": "15:45"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-12",
-        "heure": "17:40"
-      },
-      {
-        "film": "Le Sens de la fête",
-        "realisateur": "Eric Toledano, Olivier Nakache",
-        "annee": 2017,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-12",
-        "heure": "18:00"
-      },
-      {
-        "film": "Vincent mit l'âne dans un pré",
-        "realisateur": "Pierre Zucca",
-        "annee": 1975,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-12",
-        "heure": "19:20"
-      },
-      {
-        "film": "Le Syndicat du crime 2",
-        "realisateur": "John Woo",
-        "annee": 1987,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-12",
-        "heure": "21:20"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-12",
-        "heure": "21:30"
-      },
-      {
-        "film": "Volte/Face",
-        "realisateur": "John Woo",
-        "annee": 1997,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-13",
-        "heure": "14:30"
-      },
-      {
-        "film": "Roberte",
-        "realisateur": "Pierre Zucca",
-        "annee": 1977,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-13",
-        "heure": "15:45"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-13",
-        "heure": "15:45"
-      },
-      {
-        "film": "Général Idi Amin Dada : Autoportrait",
-        "realisateur": "Barbet Schroeder",
-        "annee": 1974,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-13",
-        "heure": "19:30"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-13",
-        "heure": "19:30"
-      },
-      {
-        "film": "Ennemis intimes",
-        "realisateur": "Werner Herzog",
-        "annee": 1998,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-13",
-        "heure": "21:25"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-14",
-        "heure": "14:00"
-      },
-      {
-        "film": "La Ballade de Bruno",
-        "realisateur": "Werner Herzog",
-        "annee": 1976,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-14",
-        "heure": "14:45"
-      },
-      {
-        "film": "Alouette je te plumerai",
-        "realisateur": "Pierre Zucca",
-        "annee": 1988,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-14",
-        "heure": "15:45"
-      },
-      {
-        "film": "A toute épreuve",
-        "realisateur": "John Woo",
-        "annee": 1992,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-14",
-        "heure": "17:00"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-14",
-        "heure": "17:40"
-      },
-      {
-        "film": "Leçons de ténèbres",
-        "realisateur": "Werner Herzog",
-        "annee": 1992,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-14",
-        "heure": "19:30"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-14",
-        "heure": "21:30"
-      }
-    ],
-    "Les Toiles Saint Gratien": [
-      {
-        "film": "Vérités et Mensonges",
-        "realisateur": "Orson Welles",
-        "annee": 1973,
-        "cinema": "Les Toiles Saint Gratien",
-        "zipcode": "95210",
-        "date": "2026-04-09",
-        "heure": "16:15"
-      },
-      {
-        "film": "Vérités et Mensonges",
-        "realisateur": "Orson Welles",
-        "annee": 1973,
-        "cinema": "Les Toiles Saint Gratien",
-        "zipcode": "95210",
-        "date": "2026-04-11",
-        "heure": "14:00"
-      },
-      {
-        "film": "Stand by Me",
-        "realisateur": "Rob Reiner",
-        "annee": 1986,
-        "cinema": "Les Toiles Saint Gratien",
-        "zipcode": "95210",
-        "date": "2026-04-11",
-        "heure": "16:00"
-      },
-      {
-        "film": "Vérités et Mensonges",
-        "realisateur": "Orson Welles",
-        "annee": 1973,
-        "cinema": "Les Toiles Saint Gratien",
-        "zipcode": "95210",
-        "date": "2026-04-12",
-        "heure": "14:00"
-      },
-      {
-        "film": "Stand by Me",
-        "realisateur": "Rob Reiner",
-        "annee": 1986,
-        "cinema": "Les Toiles Saint Gratien",
-        "zipcode": "95210",
-        "date": "2026-04-12",
-        "heure": "15:45"
-      },
-      {
-        "film": "Vérités et Mensonges",
-        "realisateur": "Orson Welles",
-        "annee": 1973,
-        "cinema": "Les Toiles Saint Gratien",
-        "zipcode": "95210",
         "date": "2026-04-14",
         "heure": "18:00"
       }
     ],
     "Écoles Cinéma Club": [
-      {
-        "film": "Cris et chuchotements",
-        "realisateur": "Ingmar Bergman",
-        "annee": 1972,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:30"
-      },
-      {
-        "film": "Fenêtre sur cour",
-        "realisateur": "Alfred Hitchcock",
-        "annee": 1954,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:50"
-      },
-      {
-        "film": "Walkabout",
-        "realisateur": "Nicolas Roeg",
-        "annee": 1971,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:10"
-      },
-      {
-        "film": "La Balade sauvage",
-        "realisateur": "Terrence Malick",
-        "annee": 1973,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:55"
-      },
-      {
-        "film": "The Cruise",
-        "realisateur": "Bennett Miller",
-        "annee": 1998,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:00"
-      },
-      {
-        "film": "Hiroshima, mon amour",
-        "realisateur": "Alain Resnais",
-        "annee": 1959,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:45"
-      },
-      {
-        "film": "Le Septième Sceau",
-        "realisateur": "Ingmar Bergman",
-        "annee": 1957,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "18:25"
-      },
-      {
-        "film": "Le Cercle des poètes disparus",
-        "realisateur": "Peter Weir",
-        "annee": 1989,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "19:25"
-      },
-      {
-        "film": "The Cruise",
-        "realisateur": "Bennett Miller",
-        "annee": 1998,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "20:15"
-      },
-      {
-        "film": "Blue Velvet",
-        "realisateur": "David Lynch",
-        "annee": 1986,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "21:40"
-      },
       {
         "film": "La Nuit du chasseur",
         "realisateur": "Charles Laughton",
@@ -3569,164 +2785,7 @@
         "heure": "21:00"
       }
     ],
-    "Les 3 Luxembourg": [
-      {
-        "film": "La Grève",
-        "realisateur": "Sergei Eisenstein",
-        "annee": 1924,
-        "cinema": "Les 3 Luxembourg",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "19:00"
-      },
-      {
-        "film": "La Tête haute",
-        "realisateur": "Emmanuelle Bercot",
-        "annee": 2015,
-        "cinema": "Les 3 Luxembourg",
-        "zipcode": "75006",
-        "date": "2026-04-11",
-        "heure": "10:00"
-      },
-      {
-        "film": "Soundtrack to a Coup d'État",
-        "realisateur": "Johan Grimonprez",
-        "annee": 2023,
-        "cinema": "Les 3 Luxembourg",
-        "zipcode": "75006",
-        "date": "2026-04-13",
-        "heure": "20:45"
-      },
-      {
-        "film": "Banel & Adama",
-        "realisateur": "Ramata-Toulaye Sy",
-        "annee": 2023,
-        "cinema": "Les 3 Luxembourg",
-        "zipcode": "75006",
-        "date": "2026-04-14",
-        "heure": "20:00"
-      }
-    ],
-    "Les Cinq Caumartin": [
-      {
-        "film": "Nous nous sommes tant aimés !",
-        "realisateur": "Ettore Scola",
-        "annee": 1974,
-        "cinema": "Les Cinq Caumartin",
-        "zipcode": "75009",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Les Nuits de Cabiria",
-        "realisateur": "Federico Fellini",
-        "annee": 1957,
-        "cinema": "Les Cinq Caumartin",
-        "zipcode": "75009",
-        "date": "2026-04-12",
-        "heure": "11:30"
-      }
-    ],
     "Le Champo": [
-      {
-        "film": "Paranoid Park",
-        "realisateur": "Gus Van Sant",
-        "annee": 2007,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "11:40"
-      },
-      {
-        "film": "Vous ne l'emporterez pas avec vous",
-        "realisateur": "Frank Capra",
-        "annee": 1938,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "11:45"
-      },
-      {
-        "film": "Le goût des autres",
-        "realisateur": "Agnès Jaoui",
-        "annee": 2000,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:20"
-      },
-      {
-        "film": "La Dame de Shanghai",
-        "realisateur": "Orson Welles",
-        "annee": 1948,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "14:05"
-      },
-      {
-        "film": "Will Hunting",
-        "realisateur": "Gus Van Sant",
-        "annee": 1997,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:30"
-      },
-      {
-        "film": "Prête à tout",
-        "realisateur": "Gus Van Sant",
-        "annee": 1995,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:50"
-      },
-      {
-        "film": "Le goût des autres",
-        "realisateur": "Agnès Jaoui",
-        "annee": 2000,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:50"
-      },
-      {
-        "film": "La Dame de Shanghai",
-        "realisateur": "Orson Welles",
-        "annee": 1948,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "18:00"
-      },
-      {
-        "film": "Le goût des autres",
-        "realisateur": "Agnès Jaoui",
-        "annee": 2000,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "19:40"
-      },
-      {
-        "film": "Quand la Panthère rose s'emmêle",
-        "realisateur": "Blake Edwards",
-        "annee": 1976,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "La Dame de Shanghai",
-        "realisateur": "Orson Welles",
-        "annee": 1948,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "21:45"
-      },
       {
         "film": "Ange",
         "realisateur": "Ernst Lubitsch",
@@ -4250,76 +3309,31 @@
         "heure": "21:30"
       }
     ],
-    "L'Archipel": [
+    "Le Grand Action": [
       {
-        "film": "La Famille Homolka",
-        "realisateur": "Jaroslav Papousek",
-        "annee": 1969,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-09",
-        "heure": "11:40"
-      },
-      {
-        "film": "Nosferatu Fantôme de la Nuit",
-        "realisateur": "Werner Herzog",
-        "annee": 1979,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-09",
+        "film": "Le Syndicat du crime",
+        "realisateur": "John Woo",
+        "annee": 1986,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-10",
         "heure": "13:15"
       },
       {
-        "film": "L'Enigme de Kaspar Hauser",
-        "realisateur": "Werner Herzog",
-        "annee": 1974,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-09",
-        "heure": "15:10"
-      },
-      {
-        "film": "Vincent mit l'âne dans un pré",
-        "realisateur": "Pierre Zucca",
-        "annee": 1975,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-09",
-        "heure": "17:20"
-      },
-      {
-        "film": "Totally F***ed Up",
-        "realisateur": "Gregg Araki",
-        "annee": 1993,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-09",
-        "heure": "19:10"
-      },
-      {
-        "film": "Ennemis intimes",
-        "realisateur": "Werner Herzog",
-        "annee": 1998,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
         "date": "2026-04-10",
-        "heure": "13:10"
+        "heure": "14:00"
       },
       {
-        "film": "Le pays où rêvent les fourmis vertes",
-        "realisateur": "Werner Herzog",
-        "annee": 1984,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-10",
-        "heure": "13:10"
-      },
-      {
-        "film": "Roberte",
-        "realisateur": "Pierre Zucca",
-        "annee": 1977,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
+        "film": "Le Syndicat du crime 3",
+        "realisateur": "Tsui Hark",
+        "annee": 1989,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
         "date": "2026-04-10",
         "heure": "15:15"
       },
@@ -4327,175 +3341,375 @@
         "film": "Alouette je te plumerai",
         "realisateur": "Pierre Zucca",
         "annee": 1988,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
         "date": "2026-04-10",
-        "heure": "17:10"
-      },
-      {
-        "film": "The Doom Generation",
-        "realisateur": "Gregg Araki",
-        "annee": 1995,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-10",
-        "heure": "19:00"
-      },
-      {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-10",
-        "heure": "20:00"
-      },
-      {
-        "film": "Aguirre, la colère de Dieu",
-        "realisateur": "Werner Herzog",
-        "annee": 1972,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-10",
-        "heure": "20:40"
-      },
-      {
-        "film": "Little Feet",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2013,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-11",
-        "heure": "14:10"
-      },
-      {
-        "film": "Heart of a Dog",
-        "realisateur": "Laurie Anderson",
-        "annee": 2015,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-11",
-        "heure": "18:00"
-      },
-      {
-        "film": "Une journée particulière",
-        "realisateur": "Ettore Scola",
-        "annee": 1977,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-11",
-        "heure": "20:20"
-      },
-      {
-        "film": "Alouette je te plumerai",
-        "realisateur": "Pierre Zucca",
-        "annee": 1988,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-12",
-        "heure": "14:00"
-      },
-      {
-        "film": "Vincent mit l'âne dans un pré",
-        "realisateur": "Pierre Zucca",
-        "annee": 1975,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-12",
-        "heure": "16:50"
-      },
-      {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-12",
-        "heure": "18:45"
-      },
-      {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-13",
-        "heure": "15:00"
-      },
-      {
-        "film": "Rouge-Gorge",
-        "realisateur": "Pierre Zucca",
-        "annee": 1985,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-13",
-        "heure": "17:00"
-      },
-      {
-        "film": "Nowhere",
-        "realisateur": "Gregg Araki",
-        "annee": 1997,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-13",
-        "heure": "19:00"
-      },
-      {
-        "film": "La Famille Homolka",
-        "realisateur": "Jaroslav Papousek",
-        "annee": 1969,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-14",
-        "heure": "15:00"
-      },
-      {
-        "film": "Une Balle dans la tête",
-        "realisateur": "John Woo",
-        "annee": 1990,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-14",
-        "heure": "15:35"
-      },
-      {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-14",
-        "heure": "16:35"
+        "heure": "15:45"
       },
       {
         "film": "Leçons de ténèbres",
         "realisateur": "Werner Herzog",
         "annee": 1992,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-10",
+        "heure": "17:35"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-10",
+        "heure": "17:40"
+      },
+      {
+        "film": "Rouge-Gorge",
+        "realisateur": "Pierre Zucca",
+        "annee": 1985,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-10",
+        "heure": "19:20"
+      },
+      {
+        "film": "City on fire",
+        "realisateur": "Ringo Lam",
+        "annee": 1987,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-10",
+        "heure": "21:20"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-10",
+        "heure": "21:30"
+      },
+      {
+        "film": "Vincent mit l'âne dans un pré",
+        "realisateur": "Pierre Zucca",
+        "annee": 1975,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-11",
+        "heure": "15:40"
+      },
+      {
+        "film": "Les Trois Royaumes",
+        "realisateur": "John Woo",
+        "annee": 2008,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-11",
+        "heure": "16:00"
+      },
+      {
+        "film": "Careful",
+        "realisateur": "Guy Maddin",
+        "annee": 1992,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-11",
+        "heure": "16:30"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-11",
+        "heure": "18:45"
+      },
+      {
+        "film": "Le Syndicat du crime",
+        "realisateur": "John Woo",
+        "annee": 1986,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-11",
+        "heure": "18:50"
+      },
+      {
+        "film": "Alouette je te plumerai",
+        "realisateur": "Pierre Zucca",
+        "annee": 1988,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-11",
+        "heure": "19:20"
+      },
+      {
+        "film": "Volte/Face",
+        "realisateur": "John Woo",
+        "annee": 1997,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-11",
+        "heure": "20:45"
+      },
+      {
+        "film": "Nosferatu Fantôme de la Nuit",
+        "realisateur": "Werner Herzog",
+        "annee": 1979,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-11",
+        "heure": "21:15"
+      },
+      {
+        "film": "Un autre monde",
+        "realisateur": "Stéphane Brizé",
+        "annee": 2021,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "10:30"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "14:00"
+      },
+      {
+        "film": "Rouge-Gorge",
+        "realisateur": "Pierre Zucca",
+        "annee": 1985,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "15:40"
+      },
+      {
+        "film": "Le Syndicat du crime",
+        "realisateur": "John Woo",
+        "annee": 1986,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "15:45"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "17:40"
+      },
+      {
+        "film": "Le Sens de la fête",
+        "realisateur": "Eric Toledano, Olivier Nakache",
+        "annee": 2017,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "18:00"
+      },
+      {
+        "film": "Vincent mit l'âne dans un pré",
+        "realisateur": "Pierre Zucca",
+        "annee": 1975,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "19:20"
+      },
+      {
+        "film": "Le Syndicat du crime 2",
+        "realisateur": "John Woo",
+        "annee": 1987,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "21:20"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "21:30"
+      },
+      {
+        "film": "Volte/Face",
+        "realisateur": "John Woo",
+        "annee": 1997,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-13",
+        "heure": "14:30"
+      },
+      {
+        "film": "Roberte",
+        "realisateur": "Pierre Zucca",
+        "annee": 1977,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-13",
+        "heure": "15:45"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-13",
+        "heure": "15:45"
+      },
+      {
+        "film": "Général Idi Amin Dada : Autoportrait",
+        "realisateur": "Barbet Schroeder",
+        "annee": 1974,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-13",
+        "heure": "19:30"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-13",
+        "heure": "19:30"
+      },
+      {
+        "film": "Ennemis intimes",
+        "realisateur": "Werner Herzog",
+        "annee": 1998,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-13",
+        "heure": "21:25"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-14",
+        "heure": "14:00"
+      },
+      {
+        "film": "La Ballade de Bruno",
+        "realisateur": "Werner Herzog",
+        "annee": 1976,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-14",
+        "heure": "14:45"
+      },
+      {
+        "film": "Alouette je te plumerai",
+        "realisateur": "Pierre Zucca",
+        "annee": 1988,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-14",
+        "heure": "15:45"
+      },
+      {
+        "film": "A toute épreuve",
+        "realisateur": "John Woo",
+        "annee": 1992,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-14",
+        "heure": "17:00"
+      },
+      {
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
+        "date": "2026-04-14",
+        "heure": "17:40"
+      },
+      {
+        "film": "Leçons de ténèbres",
+        "realisateur": "Werner Herzog",
+        "annee": 1992,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
         "date": "2026-04-14",
         "heure": "19:30"
       },
       {
-        "film": "Forbidden Hollywood : Âmes libres",
-        "realisateur": "Clarence Brown",
-        "annee": 1931,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
+        "film": "The World is Full of Secrets",
+        "realisateur": "Graham Swon",
+        "annee": 2018,
+        "cinema": "Le Grand Action",
+        "zipcode": "75005",
         "date": "2026-04-14",
-        "heure": "20:00"
+        "heure": "21:30"
+      }
+    ],
+    "Le Luxy": [
+      {
+        "film": "Le Château ambulant",
+        "realisateur": "Hayao Miyazaki",
+        "annee": 2004,
+        "cinema": "Le Luxy",
+        "zipcode": "94200",
+        "date": "2026-04-10",
+        "heure": "18:00"
+      },
+      {
+        "film": "Le Voyage de Chihiro",
+        "realisateur": "Hayao Miyazaki",
+        "annee": 2001,
+        "cinema": "Le Luxy",
+        "zipcode": "94200",
+        "date": "2026-04-10",
+        "heure": "20:30"
+      },
+      {
+        "film": "Profils paysans : Le quotidien",
+        "realisateur": "Raymond Depardon",
+        "annee": 2005,
+        "cinema": "Le Luxy",
+        "zipcode": "94200",
+        "date": "2026-04-11",
+        "heure": "15:15"
+      },
+      {
+        "film": "Beau travail",
+        "realisateur": "Claire Denis",
+        "annee": 1999,
+        "cinema": "Le Luxy",
+        "zipcode": "94200",
+        "date": "2026-04-12",
+        "heure": "17:00"
+      },
+      {
+        "film": "Profils paysans : Le quotidien",
+        "realisateur": "Raymond Depardon",
+        "annee": 2005,
+        "cinema": "Le Luxy",
+        "zipcode": "94200",
+        "date": "2026-04-14",
+        "heure": "21:00"
       }
     ],
     "Forum des images": [
-      {
-        "film": "Orlando",
-        "realisateur": "Sally Potter",
-        "annee": 1992,
-        "cinema": "Forum des images",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "20:45"
-      },
       {
         "film": "Coup de foudre à Bollywood",
         "realisateur": "Gurinder Chadha",
@@ -4515,81 +3729,47 @@
         "heure": "15:00"
       }
     ],
-    "Jeu de Paume": [
+    "Saint-André des Arts": [
       {
-        "film": "The Cruise",
-        "realisateur": "Bennett Miller",
-        "annee": 1998,
-        "cinema": "Jeu de Paume",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "14:30"
-      },
-      {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "Jeu de Paume",
-        "zipcode": "75001",
+        "film": "Jiburo",
+        "realisateur": "Lee Jung-hyang",
+        "annee": 2002,
+        "cinema": "Saint-André des Arts",
+        "zipcode": "75006",
         "date": "2026-04-10",
-        "heure": "11:30"
+        "heure": "20:00"
       },
       {
-        "film": "The Cruise",
-        "realisateur": "Bennett Miller",
-        "annee": 1998,
-        "cinema": "Jeu de Paume",
-        "zipcode": "75001",
-        "date": "2026-04-10",
-        "heure": "13:15"
-      },
-      {
-        "film": "L'Hypothèse du Mokélé M'Bembé",
-        "realisateur": "Marie Voignier",
-        "annee": 2011,
-        "cinema": "Jeu de Paume",
-        "zipcode": "75001",
-        "date": "2026-04-10",
-        "heure": "18:30"
-      },
-      {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "Jeu de Paume",
-        "zipcode": "75001",
+        "film": "Princes et princesses",
+        "realisateur": "Michel Ocelot",
+        "annee": 1999,
+        "cinema": "Saint-André des Arts",
+        "zipcode": "75006",
         "date": "2026-04-12",
-        "heure": "11:30"
+        "heure": "11:10"
       },
       {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "Jeu de Paume",
-        "zipcode": "75001",
+        "film": "Le Traître",
+        "realisateur": "Anatole Litvak",
+        "annee": 1951,
+        "cinema": "Saint-André des Arts",
+        "zipcode": "75006",
         "date": "2026-04-14",
-        "heure": "14:45"
+        "heure": "20:00"
       }
     ],
-    "Majestic Bastille": [
+    "Ciné 104": [
       {
         "film": "Happy Together",
         "realisateur": "Wong Kar-Wai",
         "annee": 1997,
-        "cinema": "Majestic Bastille",
-        "zipcode": "75011",
-        "date": "2026-04-09",
-        "heure": "11:30"
-      },
-      {
-        "film": "Edward aux mains d'argent",
-        "realisateur": "Tim Burton",
-        "annee": 1990,
-        "cinema": "Majestic Bastille",
-        "zipcode": "75011",
-        "date": "2026-04-09",
-        "heure": "20:15"
-      },
+        "cinema": "Ciné 104",
+        "zipcode": "93500",
+        "date": "2026-04-10",
+        "heure": "17:45"
+      }
+    ],
+    "Majestic Bastille": [
       {
         "film": "Chungking Express",
         "realisateur": "Wong Kar-Wai",
@@ -4636,54 +3816,7 @@
         "heure": "21:50"
       }
     ],
-    "Cinéma Chaplin Saint Lambert": [
-      {
-        "film": "Judith Therpauve",
-        "realisateur": "Patrice Chéreau",
-        "annee": 1978,
-        "cinema": "Cinéma Chaplin Saint Lambert",
-        "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "18:45"
-      },
-      {
-        "film": "Hôtel de France",
-        "realisateur": "Patrice Chéreau",
-        "annee": 1987,
-        "cinema": "Cinéma Chaplin Saint Lambert",
-        "zipcode": "75015",
-        "date": "2026-04-10",
-        "heure": "15:15"
-      },
-      {
-        "film": "L'homme blessé",
-        "realisateur": "Patrice Chéreau",
-        "annee": 1983,
-        "cinema": "Cinéma Chaplin Saint Lambert",
-        "zipcode": "75015",
-        "date": "2026-04-14",
-        "heure": "19:00"
-      }
-    ],
     "Cinémassy": [
-      {
-        "film": "Chantage",
-        "realisateur": "Alfred Hitchcock",
-        "annee": 1929,
-        "cinema": "Cinémassy",
-        "zipcode": "91300",
-        "date": "2026-04-09",
-        "heure": "15:45"
-      },
-      {
-        "film": "Psychose",
-        "realisateur": "Alfred Hitchcock",
-        "annee": 1960,
-        "cinema": "Cinémassy",
-        "zipcode": "91300",
-        "date": "2026-04-09",
-        "heure": "21:00"
-      },
       {
         "film": "Psychose",
         "realisateur": "Alfred Hitchcock",
@@ -4730,16 +3863,99 @@
         "heure": "20:00"
       }
     ],
-    "Pathé Les Fauvettes": [
+    "mk2 Bibliothèque": [
       {
-        "film": "Le goût des autres",
-        "realisateur": "Agnès Jaoui",
-        "annee": 2000,
-        "cinema": "Pathé Les Fauvettes",
+        "film": "Volver",
+        "realisateur": "Pedro Almodóvar",
+        "annee": 2005,
+        "cinema": "mk2 Bibliothèque",
         "zipcode": "75013",
-        "date": "2026-04-09",
-        "heure": "14:00"
+        "date": "2026-04-10",
+        "heure": "19:30"
       },
+      {
+        "film": "Tout sur ma mère",
+        "realisateur": "Pedro Almodóvar",
+        "annee": 1999,
+        "cinema": "mk2 Bibliothèque",
+        "zipcode": "75013",
+        "date": "2026-04-11",
+        "heure": "18:00"
+      },
+      {
+        "film": "Douleur et gloire",
+        "realisateur": "Pedro Almodóvar",
+        "annee": 2019,
+        "cinema": "mk2 Bibliothèque",
+        "zipcode": "75013",
+        "date": "2026-04-11",
+        "heure": "21:30"
+      },
+      {
+        "film": "La Loi du désir",
+        "realisateur": "Pedro Almodóvar",
+        "annee": 1986,
+        "cinema": "mk2 Bibliothèque",
+        "zipcode": "75013",
+        "date": "2026-04-12",
+        "heure": "14:15"
+      },
+      {
+        "film": "Les Contes de Terremer",
+        "realisateur": "Goro Miyazaki",
+        "annee": 2006,
+        "cinema": "mk2 Bibliothèque",
+        "zipcode": "75013",
+        "date": "2026-04-12",
+        "heure": "17:30"
+      },
+      {
+        "film": "La Mauvaise éducation",
+        "realisateur": "Pedro Almodóvar",
+        "annee": 2003,
+        "cinema": "mk2 Bibliothèque",
+        "zipcode": "75013",
+        "date": "2026-04-12",
+        "heure": "17:30"
+      },
+      {
+        "film": "Casino",
+        "realisateur": "Martin Scorsese",
+        "annee": 1995,
+        "cinema": "mk2 Bibliothèque",
+        "zipcode": "75013",
+        "date": "2026-04-12",
+        "heure": "20:00"
+      },
+      {
+        "film": "Metropolis",
+        "realisateur": "Fritz Lang",
+        "annee": 1927,
+        "cinema": "mk2 Bibliothèque",
+        "zipcode": "75013",
+        "date": "2026-04-13",
+        "heure": "11:00"
+      },
+      {
+        "film": "Julieta",
+        "realisateur": "Pedro Almodóvar",
+        "annee": 2016,
+        "cinema": "mk2 Bibliothèque",
+        "zipcode": "75013",
+        "date": "2026-04-13",
+        "heure": "19:30"
+      },
+      {
+        "film": "La jetée",
+        "realisateur": "Chris Marker",
+        "annee": 1962,
+        "cinema": "mk2 Bibliothèque",
+        "zipcode": "75013",
+        "date": "2026-04-14",
+        "heure": "11:00"
+      }
+    ],
+    "Pathé Les Fauvettes": [
       {
         "film": "Le goût des autres",
         "realisateur": "Agnès Jaoui",
@@ -4804,45 +4020,65 @@
         "heure": "21:10"
       }
     ],
-    "Le Vincennes": [
+    "L'Ecran": [
       {
-        "film": "Le goût des autres",
-        "realisateur": "Agnès Jaoui",
-        "annee": 2000,
-        "cinema": "Le Vincennes",
-        "zipcode": "94300",
-        "date": "2026-04-09",
-        "heure": "20:30"
+        "film": "Wives",
+        "realisateur": "Anja Breien",
+        "annee": 1975,
+        "cinema": "L'Ecran",
+        "zipcode": "93200",
+        "date": "2026-04-10",
+        "heure": "12:15"
       },
       {
-        "film": "Rivière sans retour",
-        "realisateur": "Otto Preminger",
-        "annee": 1954,
-        "cinema": "Le Vincennes",
-        "zipcode": "94300",
+        "film": "Sous le ciel d’Alice",
+        "realisateur": "Chloé Mazlo",
+        "annee": 2020,
+        "cinema": "L'Ecran",
+        "zipcode": "93200",
+        "date": "2026-04-12",
+        "heure": "20:10"
+      },
+      {
+        "film": "Wives",
+        "realisateur": "Anja Breien",
+        "annee": 1975,
+        "cinema": "L'Ecran",
+        "zipcode": "93200",
+        "date": "2026-04-13",
+        "heure": "17:20"
+      },
+      {
+        "film": "Wives",
+        "realisateur": "Anja Breien",
+        "annee": 1975,
+        "cinema": "L'Ecran",
+        "zipcode": "93200",
         "date": "2026-04-14",
-        "heure": "20:30"
+        "heure": "20:20"
+      }
+    ],
+    "Fondation Jerome Seydoux": [
+      {
+        "film": "Deux frères",
+        "realisateur": "Jean-Jacques Annaud",
+        "annee": 2003,
+        "cinema": "Fondation Jerome Seydoux",
+        "zipcode": "75013",
+        "date": "2026-04-10",
+        "heure": "19:30"
+      },
+      {
+        "film": "Body and Soul",
+        "realisateur": "Oscar Micheaux",
+        "annee": 1924,
+        "cinema": "Fondation Jerome Seydoux",
+        "zipcode": "75013",
+        "date": "2026-04-14",
+        "heure": "19:30"
       }
     ],
     "Cinémathèque française": [
-      {
-        "film": "Trans-Europ-express",
-        "realisateur": "Alain Robbe-Grillet",
-        "annee": 1966,
-        "cinema": "Cinémathèque française",
-        "zipcode": "75012",
-        "date": "2026-04-09",
-        "heure": "16:30"
-      },
-      {
-        "film": "Les Hommes préfèrent les blondes",
-        "realisateur": "Howard Hawks",
-        "annee": 1953,
-        "cinema": "Cinémathèque française",
-        "zipcode": "75012",
-        "date": "2026-04-09",
-        "heure": "21:30"
-      },
       {
         "film": "Rivière sans retour",
         "realisateur": "Otto Preminger",
@@ -4995,269 +4231,45 @@
         "zipcode": "75012",
         "date": "2026-04-15",
         "heure": "20:45"
-      }
-    ],
-    "Cinéma Chaplin Denfert": [
-      {
-        "film": "Gabrielle",
-        "realisateur": "Patrice Chéreau",
-        "annee": 2004,
-        "cinema": "Cinéma Chaplin Denfert",
-        "zipcode": "75014",
-        "date": "2026-04-09",
-        "heure": "13:45"
       },
       {
-        "film": "La Reine Margot",
-        "realisateur": "Patrice Chéreau",
-        "annee": 1993,
-        "cinema": "Cinéma Chaplin Denfert",
-        "zipcode": "75014",
-        "date": "2026-04-12",
-        "heure": "18:15"
-      },
-      {
-        "film": "L'homme blessé",
-        "realisateur": "Patrice Chéreau",
-        "annee": 1983,
-        "cinema": "Cinéma Chaplin Denfert",
-        "zipcode": "75014",
-        "date": "2026-04-13",
-        "heure": "19:00"
-      },
-      {
-        "film": "Judith Therpauve",
-        "realisateur": "Patrice Chéreau",
-        "annee": 1978,
-        "cinema": "Cinéma Chaplin Denfert",
-        "zipcode": "75014",
-        "date": "2026-04-14",
-        "heure": "13:45"
-      },
-      {
-        "film": "Memento",
-        "realisateur": "Christopher Nolan",
-        "annee": 2000,
-        "cinema": "Cinéma Chaplin Denfert",
-        "zipcode": "75014",
-        "date": "2026-04-14",
-        "heure": "20:30"
-      }
-    ],
-    "Le Trianon": [
-      {
-        "film": "La Dame de Shanghai",
-        "realisateur": "Orson Welles",
-        "annee": 1948,
-        "cinema": "Le Trianon",
-        "zipcode": "93230",
-        "date": "2026-04-09",
-        "heure": "20:30"
-      },
-      {
-        "film": "À cheval sur le tigre",
-        "realisateur": "Luigi Comencini",
-        "annee": 1961,
-        "cinema": "Le Trianon",
-        "zipcode": "93230",
-        "date": "2026-04-14",
-        "heure": "14:30"
-      },
-      {
-        "film": "À cheval sur le tigre",
-        "realisateur": "Luigi Comencini",
-        "annee": 1961,
-        "cinema": "Le Trianon",
-        "zipcode": "93230",
-        "date": "2026-04-14",
-        "heure": "20:30"
-      }
-    ],
-    "Espace Saint-Michel": [
-      {
-        "film": "L'heure de la libération a sonné",
-        "realisateur": "Heiny Srour",
-        "annee": 1974,
-        "cinema": "Espace Saint-Michel",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:15"
-      },
-      {
-        "film": "EL (Tourments)",
-        "realisateur": "Luis Buñuel",
-        "annee": 1953,
-        "cinema": "Espace Saint-Michel",
-        "zipcode": "75005",
-        "date": "2026-04-11",
-        "heure": "21:00"
-      },
-      {
-        "film": "L'heure de la libération a sonné",
-        "realisateur": "Heiny Srour",
-        "annee": 1974,
-        "cinema": "Espace Saint-Michel",
-        "zipcode": "75005",
-        "date": "2026-04-12",
-        "heure": "11:55"
-      },
-      {
-        "film": "Primer año",
-        "realisateur": "Patricio Guzmán",
-        "annee": 1972,
-        "cinema": "Espace Saint-Michel",
-        "zipcode": "75005",
-        "date": "2026-04-12",
+        "film": "Oedipe roi",
+        "realisateur": "Pier Paolo Pasolini",
+        "annee": 1967,
+        "cinema": "Cinémathèque française",
+        "zipcode": "75012",
+        "date": "2026-04-16",
         "heure": "16:00"
       },
       {
-        "film": "Mémoires du sous-developpement",
-        "realisateur": "Tomas Gutierrez Alea",
-        "annee": 1968,
-        "cinema": "Espace Saint-Michel",
-        "zipcode": "75005",
-        "date": "2026-04-12",
-        "heure": "20:30"
+        "film": "Troublez-moi ce soir",
+        "realisateur": "Roy Ward Baker",
+        "annee": 1952,
+        "cinema": "Cinémathèque française",
+        "zipcode": "75012",
+        "date": "2026-04-16",
+        "heure": "18:30"
       },
       {
-        "film": "L'heure de la libération a sonné",
-        "realisateur": "Heiny Srour",
-        "annee": 1974,
-        "cinema": "Espace Saint-Michel",
-        "zipcode": "75005",
-        "date": "2026-04-13",
-        "heure": "15:15"
-      },
-      {
-        "film": "La Ville et les Chiens",
-        "realisateur": "Francisco J. Lombardi",
-        "annee": 1985,
-        "cinema": "Espace Saint-Michel",
-        "zipcode": "75005",
-        "date": "2026-04-13",
-        "heure": "20:10"
-      },
-      {
-        "film": "L'heure de la libération a sonné",
-        "realisateur": "Heiny Srour",
-        "annee": 1974,
-        "cinema": "Espace Saint-Michel",
-        "zipcode": "75005",
-        "date": "2026-04-14",
-        "heure": "20:05"
-      }
-    ],
-    "mk2 Bibliothèque": [
-      {
-        "film": "Matador",
-        "realisateur": "Pedro Almodóvar",
-        "annee": 1986,
-        "cinema": "mk2 Bibliothèque",
-        "zipcode": "75013",
-        "date": "2026-04-09",
-        "heure": "19:30"
-      },
-      {
-        "film": "Volver",
-        "realisateur": "Pedro Almodóvar",
-        "annee": 2005,
-        "cinema": "mk2 Bibliothèque",
-        "zipcode": "75013",
-        "date": "2026-04-10",
-        "heure": "19:30"
-      },
-      {
-        "film": "Tout sur ma mère",
-        "realisateur": "Pedro Almodóvar",
-        "annee": 1999,
-        "cinema": "mk2 Bibliothèque",
-        "zipcode": "75013",
-        "date": "2026-04-11",
-        "heure": "18:00"
-      },
-      {
-        "film": "Douleur et gloire",
-        "realisateur": "Pedro Almodóvar",
-        "annee": 2019,
-        "cinema": "mk2 Bibliothèque",
-        "zipcode": "75013",
-        "date": "2026-04-11",
-        "heure": "21:30"
-      },
-      {
-        "film": "La Loi du désir",
-        "realisateur": "Pedro Almodóvar",
-        "annee": 1986,
-        "cinema": "mk2 Bibliothèque",
-        "zipcode": "75013",
-        "date": "2026-04-12",
-        "heure": "14:15"
-      },
-      {
-        "film": "Les Contes de Terremer",
-        "realisateur": "Goro Miyazaki",
-        "annee": 2006,
-        "cinema": "mk2 Bibliothèque",
-        "zipcode": "75013",
-        "date": "2026-04-12",
-        "heure": "17:30"
-      },
-      {
-        "film": "La Mauvaise éducation",
-        "realisateur": "Pedro Almodóvar",
-        "annee": 2003,
-        "cinema": "mk2 Bibliothèque",
-        "zipcode": "75013",
-        "date": "2026-04-12",
-        "heure": "17:30"
-      },
-      {
-        "film": "Casino",
-        "realisateur": "Martin Scorsese",
-        "annee": 1995,
-        "cinema": "mk2 Bibliothèque",
-        "zipcode": "75013",
-        "date": "2026-04-12",
+        "film": "Kes",
+        "realisateur": "Ken Loach",
+        "annee": 1969,
+        "cinema": "Cinémathèque française",
+        "zipcode": "75012",
+        "date": "2026-04-16",
         "heure": "20:00"
       },
       {
-        "film": "Metropolis",
-        "realisateur": "Fritz Lang",
-        "annee": 1927,
-        "cinema": "mk2 Bibliothèque",
-        "zipcode": "75013",
-        "date": "2026-04-13",
-        "heure": "11:00"
-      },
-      {
-        "film": "Julieta",
-        "realisateur": "Pedro Almodóvar",
-        "annee": 2016,
-        "cinema": "mk2 Bibliothèque",
-        "zipcode": "75013",
-        "date": "2026-04-13",
-        "heure": "19:30"
-      },
-      {
-        "film": "La jetée",
-        "realisateur": "Chris Marker",
-        "annee": 1962,
-        "cinema": "mk2 Bibliothèque",
-        "zipcode": "75013",
-        "date": "2026-04-14",
-        "heure": "11:00"
+        "film": "Le Milliardaire",
+        "realisateur": "George Cukor",
+        "annee": 1960,
+        "cinema": "Cinémathèque française",
+        "zipcode": "75012",
+        "date": "2026-04-16",
+        "heure": "20:30"
       }
     ],
     "Le Sélect": [
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Sélect",
-        "zipcode": "92160",
-        "date": "2026-04-09",
-        "heure": "18:45"
-      },
       {
         "film": "La Dame de Shanghai",
         "realisateur": "Orson Welles",
@@ -5311,308 +4323,6 @@
         "zipcode": "92160",
         "date": "2026-04-14",
         "heure": "18:30"
-      }
-    ],
-    "Le Luxy": [
-      {
-        "film": "Un Prince",
-        "realisateur": "Pierre Creton",
-        "annee": 2023,
-        "cinema": "Le Luxy",
-        "zipcode": "94200",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Le Château ambulant",
-        "realisateur": "Hayao Miyazaki",
-        "annee": 2004,
-        "cinema": "Le Luxy",
-        "zipcode": "94200",
-        "date": "2026-04-10",
-        "heure": "18:00"
-      },
-      {
-        "film": "Le Voyage de Chihiro",
-        "realisateur": "Hayao Miyazaki",
-        "annee": 2001,
-        "cinema": "Le Luxy",
-        "zipcode": "94200",
-        "date": "2026-04-10",
-        "heure": "20:30"
-      },
-      {
-        "film": "Profils paysans : Le quotidien",
-        "realisateur": "Raymond Depardon",
-        "annee": 2005,
-        "cinema": "Le Luxy",
-        "zipcode": "94200",
-        "date": "2026-04-11",
-        "heure": "15:15"
-      },
-      {
-        "film": "Beau travail",
-        "realisateur": "Claire Denis",
-        "annee": 1999,
-        "cinema": "Le Luxy",
-        "zipcode": "94200",
-        "date": "2026-04-12",
-        "heure": "17:00"
-      },
-      {
-        "film": "Profils paysans : Le quotidien",
-        "realisateur": "Raymond Depardon",
-        "annee": 2005,
-        "cinema": "Le Luxy",
-        "zipcode": "94200",
-        "date": "2026-04-14",
-        "heure": "21:00"
-      }
-    ],
-    "Épée de bois": [
-      {
-        "film": "Perfect Days",
-        "realisateur": "Wim Wenders",
-        "annee": 2023,
-        "cinema": "Épée de bois",
-        "zipcode": "75005",
-        "date": "2026-04-10",
-        "heure": "18:15"
-      },
-      {
-        "film": "The Dark Knight, Le Chevalier Noir",
-        "realisateur": "Christopher Nolan",
-        "annee": 2008,
-        "cinema": "Épée de bois",
-        "zipcode": "75005",
-        "date": "2026-04-12",
-        "heure": "10:30"
-      },
-      {
-        "film": "Jumanji",
-        "realisateur": "Joe Johnston",
-        "annee": 1995,
-        "cinema": "Épée de bois",
-        "zipcode": "75005",
-        "date": "2026-04-12",
-        "heure": "15:00"
-      },
-      {
-        "film": "Perfect Days",
-        "realisateur": "Wim Wenders",
-        "annee": 2023,
-        "cinema": "Épée de bois",
-        "zipcode": "75005",
-        "date": "2026-04-13",
-        "heure": "13:20"
-      },
-      {
-        "film": "Le Procès",
-        "realisateur": "Orson Welles",
-        "annee": 1962,
-        "cinema": "Épée de bois",
-        "zipcode": "75005",
-        "date": "2026-04-13",
-        "heure": "19:00"
-      },
-      {
-        "film": "Memories of Murder",
-        "realisateur": "Bong Joon Ho",
-        "annee": 2003,
-        "cinema": "Épée de bois",
-        "zipcode": "75005",
-        "date": "2026-04-14",
-        "heure": "20:15"
-      }
-    ],
-    "Le Méliès": [
-      {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "Le Méliès",
-        "zipcode": "93100",
-        "date": "2026-04-10",
-        "heure": "16:30"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Méliès",
-        "zipcode": "93100",
-        "date": "2026-04-10",
-        "heure": "18:25"
-      },
-      {
-        "film": "StreetDance",
-        "realisateur": "Max Giwa, Dania Pasquini, Nichola Burley",
-        "annee": 2009,
-        "cinema": "Le Méliès",
-        "zipcode": "93100",
-        "date": "2026-04-11",
-        "heure": "16:00"
-      },
-      {
-        "film": "A toute épreuve",
-        "realisateur": "John Woo",
-        "annee": 1992,
-        "cinema": "Le Méliès",
-        "zipcode": "93100",
-        "date": "2026-04-11",
-        "heure": "20:15"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Méliès",
-        "zipcode": "93100",
-        "date": "2026-04-11",
-        "heure": "21:00"
-      },
-      {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "Le Méliès",
-        "zipcode": "93100",
-        "date": "2026-04-12",
-        "heure": "11:10"
-      },
-      {
-        "film": "Nous étions jeunes",
-        "realisateur": "Binka Zhelyazkova",
-        "annee": 1961,
-        "cinema": "Le Méliès",
-        "zipcode": "93100",
-        "date": "2026-04-12",
-        "heure": "16:00"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Méliès",
-        "zipcode": "93100",
-        "date": "2026-04-13",
-        "heure": "13:45"
-      },
-      {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "Le Méliès",
-        "zipcode": "93100",
-        "date": "2026-04-14",
-        "heure": "18:15"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Méliès",
-        "zipcode": "93100",
-        "date": "2026-04-14",
-        "heure": "20:45"
-      }
-    ],
-    "Saint-André des Arts": [
-      {
-        "film": "Jiburo",
-        "realisateur": "Lee Jung-hyang",
-        "annee": 2002,
-        "cinema": "Saint-André des Arts",
-        "zipcode": "75006",
-        "date": "2026-04-10",
-        "heure": "20:00"
-      },
-      {
-        "film": "Princes et princesses",
-        "realisateur": "Michel Ocelot",
-        "annee": 1999,
-        "cinema": "Saint-André des Arts",
-        "zipcode": "75006",
-        "date": "2026-04-12",
-        "heure": "11:10"
-      },
-      {
-        "film": "Le Traître",
-        "realisateur": "Anatole Litvak",
-        "annee": 1951,
-        "cinema": "Saint-André des Arts",
-        "zipcode": "75006",
-        "date": "2026-04-14",
-        "heure": "20:00"
-      }
-    ],
-    "Ciné 104": [
-      {
-        "film": "Happy Together",
-        "realisateur": "Wong Kar-Wai",
-        "annee": 1997,
-        "cinema": "Ciné 104",
-        "zipcode": "93500",
-        "date": "2026-04-10",
-        "heure": "17:45"
-      }
-    ],
-    "L'Ecran": [
-      {
-        "film": "Wives",
-        "realisateur": "Anja Breien",
-        "annee": 1975,
-        "cinema": "L'Ecran",
-        "zipcode": "93200",
-        "date": "2026-04-10",
-        "heure": "12:15"
-      },
-      {
-        "film": "Sous le ciel d’Alice",
-        "realisateur": "Chloé Mazlo",
-        "annee": 2020,
-        "cinema": "L'Ecran",
-        "zipcode": "93200",
-        "date": "2026-04-12",
-        "heure": "20:10"
-      },
-      {
-        "film": "Wives",
-        "realisateur": "Anja Breien",
-        "annee": 1975,
-        "cinema": "L'Ecran",
-        "zipcode": "93200",
-        "date": "2026-04-13",
-        "heure": "17:20"
-      },
-      {
-        "film": "Wives",
-        "realisateur": "Anja Breien",
-        "annee": 1975,
-        "cinema": "L'Ecran",
-        "zipcode": "93200",
-        "date": "2026-04-14",
-        "heure": "20:20"
-      }
-    ],
-    "Fondation Jerome Seydoux": [
-      {
-        "film": "Deux frères",
-        "realisateur": "Jean-Jacques Annaud",
-        "annee": 2003,
-        "cinema": "Fondation Jerome Seydoux",
-        "zipcode": "75013",
-        "date": "2026-04-10",
-        "heure": "19:30"
-      },
-      {
-        "film": "Body and Soul",
-        "realisateur": "Oscar Micheaux",
-        "annee": 1924,
-        "cinema": "Fondation Jerome Seydoux",
-        "zipcode": "75013",
-        "date": "2026-04-14",
-        "heure": "19:30"
       }
     ],
     "L'Arlequin": [
@@ -5680,6 +4390,26 @@
         "zipcode": "75014",
         "date": "2026-04-10",
         "heure": "09:45"
+      }
+    ],
+    "Cinéma Chaplin Saint Lambert": [
+      {
+        "film": "Hôtel de France",
+        "realisateur": "Patrice Chéreau",
+        "annee": 1987,
+        "cinema": "Cinéma Chaplin Saint Lambert",
+        "zipcode": "75015",
+        "date": "2026-04-10",
+        "heure": "15:15"
+      },
+      {
+        "film": "L'homme blessé",
+        "realisateur": "Patrice Chéreau",
+        "annee": 1983,
+        "cinema": "Cinéma Chaplin Saint Lambert",
+        "zipcode": "75015",
+        "date": "2026-04-14",
+        "heure": "19:00"
       }
     ],
     "Mac-Mahon": [
@@ -5859,6 +4589,118 @@
         "heure": "21:25"
       }
     ],
+    "Espace Saint-Michel": [
+      {
+        "film": "EL (Tourments)",
+        "realisateur": "Luis Buñuel",
+        "annee": 1953,
+        "cinema": "Espace Saint-Michel",
+        "zipcode": "75005",
+        "date": "2026-04-11",
+        "heure": "21:00"
+      },
+      {
+        "film": "L'heure de la libération a sonné",
+        "realisateur": "Heiny Srour",
+        "annee": 1974,
+        "cinema": "Espace Saint-Michel",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "11:55"
+      },
+      {
+        "film": "Primer año",
+        "realisateur": "Patricio Guzmán",
+        "annee": 1972,
+        "cinema": "Espace Saint-Michel",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "16:00"
+      },
+      {
+        "film": "Mémoires du sous-developpement",
+        "realisateur": "Tomas Gutierrez Alea",
+        "annee": 1968,
+        "cinema": "Espace Saint-Michel",
+        "zipcode": "75005",
+        "date": "2026-04-12",
+        "heure": "20:30"
+      },
+      {
+        "film": "L'heure de la libération a sonné",
+        "realisateur": "Heiny Srour",
+        "annee": 1974,
+        "cinema": "Espace Saint-Michel",
+        "zipcode": "75005",
+        "date": "2026-04-13",
+        "heure": "15:15"
+      },
+      {
+        "film": "La Ville et les Chiens",
+        "realisateur": "Francisco J. Lombardi",
+        "annee": 1985,
+        "cinema": "Espace Saint-Michel",
+        "zipcode": "75005",
+        "date": "2026-04-13",
+        "heure": "20:10"
+      },
+      {
+        "film": "L'heure de la libération a sonné",
+        "realisateur": "Heiny Srour",
+        "annee": 1974,
+        "cinema": "Espace Saint-Michel",
+        "zipcode": "75005",
+        "date": "2026-04-14",
+        "heure": "20:05"
+      }
+    ],
+    "Les Toiles Saint Gratien": [
+      {
+        "film": "Vérités et Mensonges",
+        "realisateur": "Orson Welles",
+        "annee": 1973,
+        "cinema": "Les Toiles Saint Gratien",
+        "zipcode": "95210",
+        "date": "2026-04-11",
+        "heure": "14:00"
+      },
+      {
+        "film": "Stand by Me",
+        "realisateur": "Rob Reiner",
+        "annee": 1986,
+        "cinema": "Les Toiles Saint Gratien",
+        "zipcode": "95210",
+        "date": "2026-04-11",
+        "heure": "16:00"
+      },
+      {
+        "film": "Vérités et Mensonges",
+        "realisateur": "Orson Welles",
+        "annee": 1973,
+        "cinema": "Les Toiles Saint Gratien",
+        "zipcode": "95210",
+        "date": "2026-04-12",
+        "heure": "14:00"
+      },
+      {
+        "film": "Stand by Me",
+        "realisateur": "Rob Reiner",
+        "annee": 1986,
+        "cinema": "Les Toiles Saint Gratien",
+        "zipcode": "95210",
+        "date": "2026-04-12",
+        "heure": "15:45"
+      },
+      {
+        "film": "Vérités et Mensonges",
+        "realisateur": "Orson Welles",
+        "annee": 1973,
+        "cinema": "Les Toiles Saint Gratien",
+        "zipcode": "95210",
+        "date": "2026-04-14",
+        "heure": "18:00"
+      }
+    ],
     "mk2 Gambetta": [
       {
         "film": "L'Equipe de secours",
@@ -5984,6 +4826,122 @@
         "heure": "20:00"
       }
     ],
+    "UGC Paris 19": [
+      {
+        "film": "Tout sur ma mère",
+        "realisateur": "Pedro Almodóvar",
+        "annee": 1999,
+        "cinema": "UGC Paris 19",
+        "zipcode": "75019",
+        "date": "2026-04-11",
+        "heure": "18:00"
+      },
+      {
+        "film": "Alice au pays des merveilles",
+        "realisateur": "Hamilton Luske, Wilfred Jackson, Clyde Geronomi",
+        "annee": 1951,
+        "cinema": "UGC Paris 19",
+        "zipcode": "75019",
+        "date": "2026-04-12",
+        "heure": "11:00"
+      }
+    ],
+    "UGC Maillot": [
+      {
+        "film": "Tout sur ma mère",
+        "realisateur": "Pedro Almodóvar",
+        "annee": 1999,
+        "cinema": "UGC Maillot",
+        "zipcode": "75017",
+        "date": "2026-04-11",
+        "heure": "14:00"
+      },
+      {
+        "film": "Alice au pays des merveilles",
+        "realisateur": "Hamilton Luske, Wilfred Jackson, Clyde Geronomi",
+        "annee": 1951,
+        "cinema": "UGC Maillot",
+        "zipcode": "75017",
+        "date": "2026-04-12",
+        "heure": "11:00"
+      },
+      {
+        "film": "Vol au-dessus d'un nid de coucou",
+        "realisateur": "Milos Forman",
+        "annee": 1975,
+        "cinema": "UGC Maillot",
+        "zipcode": "75017",
+        "date": "2026-04-14",
+        "heure": "18:00"
+      }
+    ],
+    "UGC Gobelins": [
+      {
+        "film": "Tout sur ma mère",
+        "realisateur": "Pedro Almodóvar",
+        "annee": 1999,
+        "cinema": "UGC Gobelins",
+        "zipcode": "75013",
+        "date": "2026-04-11",
+        "heure": "18:00"
+      },
+      {
+        "film": "Alice au pays des merveilles",
+        "realisateur": "Hamilton Luske, Wilfred Jackson, Clyde Geronomi",
+        "annee": 1951,
+        "cinema": "UGC Gobelins",
+        "zipcode": "75013",
+        "date": "2026-04-12",
+        "heure": "10:30"
+      },
+      {
+        "film": "La fille du Konbini",
+        "realisateur": "Yûho Ishibashi",
+        "annee": 2022,
+        "cinema": "UGC Gobelins",
+        "zipcode": "75013",
+        "date": "2026-04-12",
+        "heure": "17:40"
+      },
+      {
+        "film": "Vol au-dessus d'un nid de coucou",
+        "realisateur": "Milos Forman",
+        "annee": 1975,
+        "cinema": "UGC Gobelins",
+        "zipcode": "75013",
+        "date": "2026-04-13",
+        "heure": "20:00"
+      }
+    ],
+    "UGC Bercy": [
+      {
+        "film": "Tout sur ma mère",
+        "realisateur": "Pedro Almodóvar",
+        "annee": 1999,
+        "cinema": "UGC Bercy",
+        "zipcode": "75012",
+        "date": "2026-04-11",
+        "heure": "18:00"
+      },
+      {
+        "film": "Alice au pays des merveilles",
+        "realisateur": "Hamilton Luske, Wilfred Jackson, Clyde Geronomi",
+        "annee": 1951,
+        "cinema": "UGC Bercy",
+        "zipcode": "75012",
+        "date": "2026-04-12",
+        "heure": "11:00"
+      },
+      {
+        "film": "Vol au-dessus d'un nid de coucou",
+        "realisateur": "Milos Forman",
+        "annee": 1975,
+        "cinema": "UGC Bercy",
+        "zipcode": "75012",
+        "date": "2026-04-14",
+        "heure": "14:00"
+      }
+    ],
     "Nouvel Odéon": [
       {
         "film": "Promising Young Woman",
@@ -6042,6 +5000,35 @@
         "zipcode": "92600",
         "date": "2026-04-11",
         "heure": "12:40"
+      }
+    ],
+    "Les 3 Luxembourg": [
+      {
+        "film": "La Tête haute",
+        "realisateur": "Emmanuelle Bercot",
+        "annee": 2015,
+        "cinema": "Les 3 Luxembourg",
+        "zipcode": "75006",
+        "date": "2026-04-11",
+        "heure": "10:00"
+      },
+      {
+        "film": "Soundtrack to a Coup d'État",
+        "realisateur": "Johan Grimonprez",
+        "annee": 2023,
+        "cinema": "Les 3 Luxembourg",
+        "zipcode": "75006",
+        "date": "2026-04-13",
+        "heure": "20:45"
+      },
+      {
+        "film": "Banel & Adama",
+        "realisateur": "Ramata-Toulaye Sy",
+        "annee": 2023,
+        "cinema": "Les 3 Luxembourg",
+        "zipcode": "75006",
+        "date": "2026-04-14",
+        "heure": "20:00"
       }
     ],
     "Le Studio": [
@@ -6115,6 +5102,26 @@
         "heure": "20:00"
       }
     ],
+    "UGC Odéon": [
+      {
+        "film": "Tout sur ma mère",
+        "realisateur": "Pedro Almodóvar",
+        "annee": 1999,
+        "cinema": "UGC Odéon",
+        "zipcode": "75006",
+        "date": "2026-04-12",
+        "heure": "15:15"
+      },
+      {
+        "film": "Vol au-dessus d'un nid de coucou",
+        "realisateur": "Milos Forman",
+        "annee": 1975,
+        "cinema": "UGC Odéon",
+        "zipcode": "75006",
+        "date": "2026-04-13",
+        "heure": "15:00"
+      }
+    ],
     "Majestic Passy": [
       {
         "film": "Les Violons du bal",
@@ -6124,6 +5131,17 @@
         "zipcode": "75016",
         "date": "2026-04-12",
         "heure": "11:00"
+      }
+    ],
+    "Les Cinq Caumartin": [
+      {
+        "film": "Les Nuits de Cabiria",
+        "realisateur": "Federico Fellini",
+        "annee": 1957,
+        "cinema": "Les Cinq Caumartin",
+        "zipcode": "75009",
+        "date": "2026-04-12",
+        "heure": "11:30"
       }
     ],
     "La Clef": [
@@ -6168,6 +5186,44 @@
         "zipcode": "75008",
         "date": "2026-04-12",
         "heure": "18:00"
+      }
+    ],
+    "Cinéma Chaplin Denfert": [
+      {
+        "film": "La Reine Margot",
+        "realisateur": "Patrice Chéreau",
+        "annee": 1993,
+        "cinema": "Cinéma Chaplin Denfert",
+        "zipcode": "75014",
+        "date": "2026-04-12",
+        "heure": "18:15"
+      },
+      {
+        "film": "L'homme blessé",
+        "realisateur": "Patrice Chéreau",
+        "annee": 1983,
+        "cinema": "Cinéma Chaplin Denfert",
+        "zipcode": "75014",
+        "date": "2026-04-13",
+        "heure": "19:00"
+      },
+      {
+        "film": "Judith Therpauve",
+        "realisateur": "Patrice Chéreau",
+        "annee": 1978,
+        "cinema": "Cinéma Chaplin Denfert",
+        "zipcode": "75014",
+        "date": "2026-04-14",
+        "heure": "13:45"
+      },
+      {
+        "film": "Memento",
+        "realisateur": "Christopher Nolan",
+        "annee": 2000,
+        "cinema": "Cinéma Chaplin Denfert",
+        "zipcode": "75014",
+        "date": "2026-04-14",
+        "heure": "20:30"
       }
     ],
     "Studio des Ursulines": [
@@ -6254,6 +5310,17 @@
         "heure": "20:30"
       }
     ],
+    "Le Vincennes": [
+      {
+        "film": "Rivière sans retour",
+        "realisateur": "Otto Preminger",
+        "annee": 1954,
+        "cinema": "Le Vincennes",
+        "zipcode": "94300",
+        "date": "2026-04-14",
+        "heure": "20:30"
+      }
+    ],
     "mk2 Quai de Loire": [
       {
         "film": "Une fille facile",
@@ -6263,6 +5330,26 @@
         "zipcode": "75019",
         "date": "2026-04-14",
         "heure": "19:30"
+      }
+    ],
+    "Le Trianon": [
+      {
+        "film": "À cheval sur le tigre",
+        "realisateur": "Luigi Comencini",
+        "annee": 1961,
+        "cinema": "Le Trianon",
+        "zipcode": "93230",
+        "date": "2026-04-14",
+        "heure": "14:30"
+      },
+      {
+        "film": "À cheval sur le tigre",
+        "realisateur": "Luigi Comencini",
+        "annee": 1961,
+        "cinema": "Le Trianon",
+        "zipcode": "93230",
+        "date": "2026-04-14",
+        "heure": "20:30"
       }
     ],
     "Le Cinéma des Cinéastes": [
@@ -6278,953 +5365,6 @@
     ]
   },
   "by_date": {
-    "2026-04-09": [
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "09:00"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "Gaumont Convention",
-        "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "10:10"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "11:05"
-      },
-      {
-        "film": "Wives",
-        "realisateur": "Anja Breien",
-        "annee": 1975,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "11:20"
-      },
-      {
-        "film": "Happy Together",
-        "realisateur": "Wong Kar-Wai",
-        "annee": 1997,
-        "cinema": "Majestic Bastille",
-        "zipcode": "75011",
-        "date": "2026-04-09",
-        "heure": "11:30"
-      },
-      {
-        "film": "La Famille Homolka",
-        "realisateur": "Jaroslav Papousek",
-        "annee": 1969,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-09",
-        "heure": "11:40"
-      },
-      {
-        "film": "Paranoid Park",
-        "realisateur": "Gus Van Sant",
-        "annee": 2007,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "11:40"
-      },
-      {
-        "film": "Vous ne l'emporterez pas avec vous",
-        "realisateur": "Frank Capra",
-        "annee": 1938,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "11:45"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "13:15"
-      },
-      {
-        "film": "Nosferatu Fantôme de la Nuit",
-        "realisateur": "Werner Herzog",
-        "annee": 1979,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-09",
-        "heure": "13:15"
-      },
-      {
-        "film": "Le goût des autres",
-        "realisateur": "Agnès Jaoui",
-        "annee": 2000,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:20"
-      },
-      {
-        "film": "Little Feet",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2013,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:30"
-      },
-      {
-        "film": "Echos d'un sombre empire",
-        "realisateur": "Werner Herzog",
-        "annee": 1990,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:30"
-      },
-      {
-        "film": "Cris et chuchotements",
-        "realisateur": "Ingmar Bergman",
-        "annee": 1972,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:30"
-      },
-      {
-        "film": "Wives",
-        "realisateur": "Anja Breien",
-        "annee": 1975,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:30"
-      },
-      {
-        "film": "Les Hommes le dimanche",
-        "realisateur": "Robert Siodmak, Edgar G. Ulmer",
-        "annee": 1930,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:30"
-      },
-      {
-        "film": "Happy Together",
-        "realisateur": "Wong Kar-Wai",
-        "annee": 1997,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "13:40"
-      },
-      {
-        "film": "Gabrielle",
-        "realisateur": "Patrice Chéreau",
-        "annee": 2004,
-        "cinema": "Cinéma Chaplin Denfert",
-        "zipcode": "75014",
-        "date": "2026-04-09",
-        "heure": "13:45"
-      },
-      {
-        "film": "Les Fleurs et les Vagues",
-        "realisateur": "Seijun Suzuki",
-        "annee": 1964,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:45"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "Gaumont Convention",
-        "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "13:50"
-      },
-      {
-        "film": "Fenêtre sur cour",
-        "realisateur": "Alfred Hitchcock",
-        "annee": 1954,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "13:50"
-      },
-      {
-        "film": "Casablanca",
-        "realisateur": "Michael Curtiz",
-        "annee": 1942,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "14:00"
-      },
-      {
-        "film": "Le goût des autres",
-        "realisateur": "Agnès Jaoui",
-        "annee": 2000,
-        "cinema": "Pathé Les Fauvettes",
-        "zipcode": "75013",
-        "date": "2026-04-09",
-        "heure": "14:00"
-      },
-      {
-        "film": "La Dame de Shanghai",
-        "realisateur": "Orson Welles",
-        "annee": 1948,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "14:05"
-      },
-      {
-        "film": "The Cruise",
-        "realisateur": "Bennett Miller",
-        "annee": 1998,
-        "cinema": "Jeu de Paume",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "14:30"
-      },
-      {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "14:45"
-      },
-      {
-        "film": "Notre pain quotidien",
-        "realisateur": "King Vidor",
-        "annee": 1934,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:00"
-      },
-      {
-        "film": "L'Enigme de Kaspar Hauser",
-        "realisateur": "Werner Herzog",
-        "annee": 1974,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-09",
-        "heure": "15:10"
-      },
-      {
-        "film": "Walkabout",
-        "realisateur": "Nicolas Roeg",
-        "annee": 1971,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:10"
-      },
-      {
-        "film": "Une Balle dans la tête",
-        "realisateur": "John Woo",
-        "annee": 1990,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:15"
-      },
-      {
-        "film": "L'heure de la libération a sonné",
-        "realisateur": "Heiny Srour",
-        "annee": 1974,
-        "cinema": "Espace Saint-Michel",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:15"
-      },
-      {
-        "film": "Wives 2, dix ans après (version restaurée)",
-        "realisateur": "Anja Breien",
-        "annee": 1985,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:20"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "15:25"
-      },
-      {
-        "film": "Le Fleuve de la mort",
-        "realisateur": "Luis Buñuel",
-        "annee": 1954,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "15:30"
-      },
-      {
-        "film": "Will Hunting",
-        "realisateur": "Gus Van Sant",
-        "annee": 1997,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:30"
-      },
-      {
-        "film": "Rouge-Gorge",
-        "realisateur": "Pierre Zucca",
-        "annee": 1985,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:40"
-      },
-      {
-        "film": "Le Vagabond de Tokyo",
-        "realisateur": "Seijun Suzuki",
-        "annee": 1966,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:45"
-      },
-      {
-        "film": "Chantage",
-        "realisateur": "Alfred Hitchcock",
-        "annee": 1929,
-        "cinema": "Cinémassy",
-        "zipcode": "91300",
-        "date": "2026-04-09",
-        "heure": "15:45"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:45"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "Gaumont Convention",
-        "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "15:50"
-      },
-      {
-        "film": "Prête à tout",
-        "realisateur": "Gus Van Sant",
-        "annee": 1995,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:50"
-      },
-      {
-        "film": "La Balade sauvage",
-        "realisateur": "Terrence Malick",
-        "annee": 1973,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "15:55"
-      },
-      {
-        "film": "New York-Miami",
-        "realisateur": "Frank Capra",
-        "annee": 1934,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "15:55"
-      },
-      {
-        "film": "Vérités et Mensonges",
-        "realisateur": "Orson Welles",
-        "annee": 1973,
-        "cinema": "Les Toiles Saint Gratien",
-        "zipcode": "95210",
-        "date": "2026-04-09",
-        "heure": "16:15"
-      },
-      {
-        "film": "Little Feet",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2013,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "16:30"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "16:30"
-      },
-      {
-        "film": "Trans-Europ-express",
-        "realisateur": "Alain Robbe-Grillet",
-        "annee": 1966,
-        "cinema": "Cinémathèque française",
-        "zipcode": "75012",
-        "date": "2026-04-09",
-        "heure": "16:30"
-      },
-      {
-        "film": "The Cruise",
-        "realisateur": "Bennett Miller",
-        "annee": 1998,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:00"
-      },
-      {
-        "film": "Le Fleuve de la mort",
-        "realisateur": "Luis Buñuel",
-        "annee": 1954,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "17:15"
-      },
-      {
-        "film": "Vincent mit l'âne dans un pré",
-        "realisateur": "Pierre Zucca",
-        "annee": 1975,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-09",
-        "heure": "17:20"
-      },
-      {
-        "film": "Wives",
-        "realisateur": "Anja Breien",
-        "annee": 1975,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:20"
-      },
-      {
-        "film": "Leçons de ténèbres",
-        "realisateur": "Werner Herzog",
-        "annee": 1992,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:35"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "17:40"
-      },
-      {
-        "film": "Sweet Thing",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2020,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:45"
-      },
-      {
-        "film": "La Barrière de chair",
-        "realisateur": "Seijun Suzuki",
-        "annee": 1964,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:45"
-      },
-      {
-        "film": "Hiroshima, mon amour",
-        "realisateur": "Alain Resnais",
-        "annee": 1959,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:45"
-      },
-      {
-        "film": "Le goût des autres",
-        "realisateur": "Agnès Jaoui",
-        "annee": 2000,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "17:50"
-      },
-      {
-        "film": "Donnie Darko",
-        "realisateur": "Richard Kelly",
-        "annee": 2001,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "17:50"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "Gaumont Convention",
-        "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "18:00"
-      },
-      {
-        "film": "La Dame de Shanghai",
-        "realisateur": "Orson Welles",
-        "annee": 1948,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "18:00"
-      },
-      {
-        "film": "Le Septième Sceau",
-        "realisateur": "Ingmar Bergman",
-        "annee": 1957,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "18:25"
-      },
-      {
-        "film": "Judith Therpauve",
-        "realisateur": "Patrice Chéreau",
-        "annee": 1978,
-        "cinema": "Cinéma Chaplin Saint Lambert",
-        "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "18:45"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Sélect",
-        "zipcode": "92160",
-        "date": "2026-04-09",
-        "heure": "18:45"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Odéon",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "19:00"
-      },
-      {
-        "film": "La Grève",
-        "realisateur": "Sergei Eisenstein",
-        "annee": 1924,
-        "cinema": "Les 3 Luxembourg",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "19:00"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "19:05"
-      },
-      {
-        "film": "Totally F***ed Up",
-        "realisateur": "Gregg Araki",
-        "annee": 1993,
-        "cinema": "L'Archipel",
-        "zipcode": "75010",
-        "date": "2026-04-09",
-        "heure": "19:10"
-      },
-      {
-        "film": "Le Cercle des poètes disparus",
-        "realisateur": "Peter Weir",
-        "annee": 1989,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "19:25"
-      },
-      {
-        "film": "Le Syndicat du crime",
-        "realisateur": "John Woo",
-        "annee": 1986,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "19:25"
-      },
-      {
-        "film": "Les Enfants des autres",
-        "realisateur": "Rebecca Zlotowski",
-        "annee": 2022,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "19:30"
-      },
-      {
-        "film": "Matador",
-        "realisateur": "Pedro Almodóvar",
-        "annee": 1986,
-        "cinema": "mk2 Bibliothèque",
-        "zipcode": "75013",
-        "date": "2026-04-09",
-        "heure": "19:30"
-      },
-      {
-        "film": "The World is Full of Secrets",
-        "realisateur": "Graham Swon",
-        "annee": 2018,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "19:30"
-      },
-      {
-        "film": "Le goût des autres",
-        "realisateur": "Agnès Jaoui",
-        "annee": 2000,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "19:40"
-      },
-      {
-        "film": "La Marque du tueur",
-        "realisateur": "Seijun Suzuki",
-        "annee": 1967,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "19:45"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "UGC Les Halles",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "19:55"
-      },
-      {
-        "film": "La Fille à la valise",
-        "realisateur": "Valerio Zurlini",
-        "annee": 1961,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "19:55"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Paris 19",
-        "zipcode": "75019",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Maillot",
-        "zipcode": "75017",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Lyon Bastille",
-        "zipcode": "75012",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Rotonde",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Opéra",
-        "zipcode": "75009",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Gobelins",
-        "zipcode": "75013",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Vol au-dessus d'un nid de coucou",
-        "realisateur": "Milos Forman",
-        "annee": 1975,
-        "cinema": "UGC Bercy",
-        "zipcode": "75012",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Nous nous sommes tant aimés !",
-        "realisateur": "Ettore Scola",
-        "annee": 1974,
-        "cinema": "Les Cinq Caumartin",
-        "zipcode": "75009",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Quand la Panthère rose s'emmêle",
-        "realisateur": "Blake Edwards",
-        "annee": 1976,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Un Prince",
-        "realisateur": "Pierre Creton",
-        "annee": 2023,
-        "cinema": "Le Luxy",
-        "zipcode": "94200",
-        "date": "2026-04-09",
-        "heure": "20:00"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "Gaumont Convention",
-        "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "20:10"
-      },
-      {
-        "film": "The Cruise",
-        "realisateur": "Bennett Miller",
-        "annee": 1998,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "20:15"
-      },
-      {
-        "film": "Edward aux mains d'argent",
-        "realisateur": "Tim Burton",
-        "annee": 1990,
-        "cinema": "Majestic Bastille",
-        "zipcode": "75011",
-        "date": "2026-04-09",
-        "heure": "20:15"
-      },
-      {
-        "film": "Le goût des autres",
-        "realisateur": "Agnès Jaoui",
-        "annee": 2000,
-        "cinema": "Le Vincennes",
-        "zipcode": "94300",
-        "date": "2026-04-09",
-        "heure": "20:30"
-      },
-      {
-        "film": "La Dame de Shanghai",
-        "realisateur": "Orson Welles",
-        "annee": 1948,
-        "cinema": "Le Trianon",
-        "zipcode": "93230",
-        "date": "2026-04-09",
-        "heure": "20:30"
-      },
-      {
-        "film": "Orlando",
-        "realisateur": "Sally Potter",
-        "annee": 1992,
-        "cinema": "Forum des images",
-        "zipcode": "75001",
-        "date": "2026-04-09",
-        "heure": "20:45"
-      },
-      {
-        "film": "Psychose",
-        "realisateur": "Alfred Hitchcock",
-        "annee": 1960,
-        "cinema": "Cinémassy",
-        "zipcode": "91300",
-        "date": "2026-04-09",
-        "heure": "21:00"
-      },
-      {
-        "film": "Little Feet",
-        "realisateur": "Alexandre Rockwell",
-        "annee": 2013,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "21:05"
-      },
-      {
-        "film": "L'Enigme de Kaspar Hauser",
-        "realisateur": "Werner Herzog",
-        "annee": 1974,
-        "cinema": "Le Grand Action",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "21:15"
-      },
-      {
-        "film": "Les Hommes préfèrent les blondes",
-        "realisateur": "Howard Hawks",
-        "annee": 1953,
-        "cinema": "Cinémathèque française",
-        "zipcode": "75012",
-        "date": "2026-04-09",
-        "heure": "21:30"
-      },
-      {
-        "film": "La Famille Tenenbaum",
-        "realisateur": "Wes Anderson",
-        "annee": 2001,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "21:40"
-      },
-      {
-        "film": "Blue Velvet",
-        "realisateur": "David Lynch",
-        "annee": 1986,
-        "cinema": "Écoles Cinéma Club",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "21:40"
-      },
-      {
-        "film": "Wives 2, dix ans après (version restaurée)",
-        "realisateur": "Anja Breien",
-        "annee": 1985,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "21:40"
-      },
-      {
-        "film": "La Vie d'un tatoué",
-        "realisateur": "Seijun Suzuki",
-        "annee": 1965,
-        "cinema": "Reflet Médicis",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "21:45"
-      },
-      {
-        "film": "La Dame de Shanghai",
-        "realisateur": "Orson Welles",
-        "annee": 1948,
-        "cinema": "Le Champo",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "21:45"
-      },
-      {
-        "film": "Phantom of the paradise",
-        "realisateur": "Brian De Palma",
-        "annee": 1974,
-        "cinema": "Christine Cinéma Club",
-        "zipcode": "75006",
-        "date": "2026-04-09",
-        "heure": "22:10"
-      },
-      {
-        "film": "Le dernier pour la route",
-        "realisateur": "Philippe Godeau",
-        "annee": 2008,
-        "cinema": "Gaumont Convention",
-        "zipcode": "75015",
-        "date": "2026-04-09",
-        "heure": "22:15"
-      },
-      {
-        "film": "Psychose",
-        "realisateur": "Alfred Hitchcock",
-        "annee": 1960,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "22:15"
-      },
-      {
-        "film": "As Tears Go By - Ainsi vont les larmes",
-        "realisateur": "Wong Kar-Wai",
-        "annee": 1988,
-        "cinema": "Filmothèque du Quartier Latin",
-        "zipcode": "75005",
-        "date": "2026-04-09",
-        "heure": "22:20"
-      }
-    ],
     "2026-04-10": [
       {
         "film": "Le dernier pour la route",
@@ -12428,6 +10568,44 @@
         "zipcode": "75012",
         "date": "2026-04-15",
         "heure": "20:45"
+      }
+    ],
+    "2026-04-16": [
+      {
+        "film": "Oedipe roi",
+        "realisateur": "Pier Paolo Pasolini",
+        "annee": 1967,
+        "cinema": "Cinémathèque française",
+        "zipcode": "75012",
+        "date": "2026-04-16",
+        "heure": "16:00"
+      },
+      {
+        "film": "Troublez-moi ce soir",
+        "realisateur": "Roy Ward Baker",
+        "annee": 1952,
+        "cinema": "Cinémathèque française",
+        "zipcode": "75012",
+        "date": "2026-04-16",
+        "heure": "18:30"
+      },
+      {
+        "film": "Kes",
+        "realisateur": "Ken Loach",
+        "annee": 1969,
+        "cinema": "Cinémathèque française",
+        "zipcode": "75012",
+        "date": "2026-04-16",
+        "heure": "20:00"
+      },
+      {
+        "film": "Le Milliardaire",
+        "realisateur": "George Cukor",
+        "annee": 1960,
+        "cinema": "Cinémathèque française",
+        "zipcode": "75012",
+        "date": "2026-04-16",
+        "heure": "20:30"
       }
     ]
   }
